@@ -63,9 +63,6 @@ the average. Small workshops show low traction.
 - Power BI: KPI reporting
 - Methods: EDA, Linear Regression, Trend Analysis
 
----
-
-## How to Run
 
 ## 🚀 How to Run
 
