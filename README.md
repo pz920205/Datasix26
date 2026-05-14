@@ -83,13 +83,13 @@ python scripts/prediction.py
 ```
 ---
 
-## Contact
+## 📬 Contact
 
-Pedro Perez — Data Analyst Jr
-Guatemala City
-GitHub: github.com/pz920205
-LinkedIn: linkedin.com/in/pedro-andres-perez
+Pedro Perez  
+Data Analyst Jr | Business Analytics
 
+- GitHub: https://github.com/pz920205
+- LinkedIn: https://linkedin.com/in/pedro-andres-perez
 
 
 
