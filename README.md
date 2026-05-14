@@ -67,11 +67,23 @@ the average. Small workshops show low traction.
 
 ## How to Run
 
-git clone https://github.com/pz920205/Datasix26.git
-pip install pandas matplotlib numpy scikit-learn
-python scripts/eda.py
-python scripts/prediction.py
+## 🚀 How to Run
 
+```bash
+git clone https://github.com/pz920205/Datasix26.git
+```
+
+```bash
+pip install pandas matplotlib numpy scikit-learn
+```
+
+```bash
+python scripts/eda.py
+```
+
+```bash
+python scripts/prediction.py
+```
 ---
 
 ## Contact
